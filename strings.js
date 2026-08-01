@@ -16,6 +16,7 @@ console.log(gameName.toUpperCase);
 const newString= gameName.substring(0,4) // Doesn't obeys Negative values
 console.log(newString);
 
+
 const anotherString = gameName.slice(-8,4)
 console.log(anotherString);
 
