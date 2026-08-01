@@ -29,7 +29,6 @@ console.log(Math.random()); // Value will only comes between 0 to 1 by default
 console.log((Math.random()*10) + 1);
 
 
-
 const min = 10
 const max= 20
 
