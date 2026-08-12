@@ -1,4 +1,4 @@
-// for loop
+// for loop Use a for loop when you know how many times you want to execute something.
 for (let i = 0; i < 10; i++) {
     const element = i;
     console.log(element);
